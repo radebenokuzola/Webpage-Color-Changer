@@ -14,7 +14,7 @@ The Webpage Color Changer Extension is a simple Chrome Extension that allows use
 
 To install the Webpage Color Changer Extension:
 
-1. Clone the repository: `git clone https://github.com/yourusername/color-changer-extension.git`
+1. Clone the repository: `git clone https://github.com/radebenokuzola/Webpage-Color-Changer.git`
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode" by toggling the switch in the top right corner.
 4. Click "Load unpacked" and select the directory where the extension files are located.
@@ -35,7 +35,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors and Acknowledgments
 
-Created by [Your Name](https://github.com/yourusername).
+Created by: [Nokuzola Radebe](https://github.com/radebenokuzola).
+[Qiniso Mthemthwa](https://github.com/Q-Mthethwa)
+[Phelelani Mthethwa](https://github.com/21925402)
+[Mhlengi Nkabinde](https://github.com/
+
+
 
 ## Future Enhancements
 
