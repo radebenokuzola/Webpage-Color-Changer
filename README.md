@@ -38,9 +38,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Created by: [Nokuzola Radebe](https://github.com/radebenokuzola).
 [Qiniso Mthemthwa](https://github.com/Q-Mthethwa)
 [Phelelani Mthethwa](https://github.com/21925402)
-[Mhlengi Nkabinde](https://github.com/
-
-
+[Mhlengi Nkabinde](https://github.com/MHLENGINKABINDE)
 
 ## Future Enhancements
 
