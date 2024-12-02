@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Color Changer",
+    "version": "1.0",
+    "description": "This extension is designed to change the background color of web pages and track how many times this action is performed",
+    "permissions": ["activeTab", "storage", "aiLanguageModelOriginTrial"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content_scripts/content.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup/popup.html"
+    },
+    "trial_tokens": ["ArCid3W1tU/kaIhZTW8elx+CPAqahT1qa/mZmXNs2HpgNzjtEWSq7s9Yh8jefdMuH8yoh2amZUAF/80C4Ku55gIAAAB4eyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vcGVra2dwY25pZm9iZmxja3Bua2ltaGdsaWpiYmhlbmgiLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElGb3JFeHRlbnNpb24iLCJleHBpcnkiOjE3NjA0ODYzOTl9"]
+  }
+  
